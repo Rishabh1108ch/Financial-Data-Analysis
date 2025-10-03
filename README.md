@@ -1,4 +1,4 @@
-# ***📊 Company A Financials Data Analysis (Power BI Project)***
+# ***📊 Financials Data Analysis (Power BI Project)***
 
 An interactive Power BI dashboard analyzing **sales, profit, discounts, and sector performance** across different countries and time periods.  
 This project demonstrates **business intelligence reporting** and provides actionable insights for decision-making.  
@@ -14,7 +14,7 @@ This project demonstrates **business intelligence reporting** and provides actio
 6. [Insights](#-insights)  
    - [Product Sales Analysis](#-product-sales-analysis)  
    - [Country Sales Analysis](#-country-sales-analysis)  
-   - [Sector Sales Analysis](#-sector-sales-analysis)  
+   - [Segment Sales Analysis](#-sector-sales-analysis)  
    - [Monthly Sales Analysis](#-monthly-sales-analysis)  
    - [Production Cost & Discounts](#-production-cost-and-discounts)  
 7. [Recommendations](#-recommendations)  
@@ -23,7 +23,7 @@ This project demonstrates **business intelligence reporting** and provides actio
    - [Reduce Costs](#-reduce-costs)  
    - [Expand in Profitable Markets](#-expand-in-profitable-markets)  
    - [Boost Low Sales Months](#-boost-low-sales-months)  
-   - [Sector Strategy](#-sector-strategy)  
+   - [Segment Strategy](#-sector-strategy)  
 8. [Conclusion](#-conclusion)  
 
 ---
@@ -34,7 +34,7 @@ This project demonstrates **business intelligence reporting** and provides actio
 ---
 
 ## 📌 Overview
-This project analyzes **Company A’s Financial Sales Data** (2014–2017).  
+This project analyzes **Financial Sales Data** (2014–2017).  
 The Power BI dashboard highlights **sales performance, profit trends, discount impacts, and country/sector analysis** to help stakeholders make data-driven decisions.  
 
 ---
