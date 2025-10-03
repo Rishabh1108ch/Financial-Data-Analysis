@@ -65,8 +65,10 @@ The Power BI dashboard highlights **sales performance, profit trends, discount i
 - Segment-wise Contribution to Revenue  
 - Monthly Sales Trend  
 
-📸 *[Add screenshots of your Power BI dashboard here](https://github.com/Rishabh1108ch/Financials-Data-Analysis/blob/main/Business%20Performance%20Dashboard%20Country%20Analysis.png)*  
-
+📸 *[Financial Analysis Dashboard] https://github.com/Rishabh1108ch/Financials-Data-Analysis/blob/main/1.%20Financial%20Analysis%20Power%20BI%20Screenshot.png*  
+📸 *[Product Performance Dashboard] https://github.com/Rishabh1108ch/Financials-Data-Analysis/blob/main/2.%20Product%20Performance%20Power%20BI%20Screenshot.png* 
+📸 *[Segment Analysis Dashboard] https://github.com/Rishabh1108ch/Financials-Data-Analysis/blob/main/3.%20%20Segment%20Analysis%20Power%20BI%20Screenshot.png*  
+📸 *[Country Analysis Dashboard] https://github.com/Rishabh1108ch/Financials-Data-Analysis/blob/main/4.%20Country%20Analysis%20Power%20BI%20Screenshot.png*  
 ---
 
 ## 🔎 Insights
