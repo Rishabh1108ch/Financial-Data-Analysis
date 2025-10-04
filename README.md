@@ -71,6 +71,18 @@ The Power BI dashboard highlights **sales performance, profit trends, discount i
 📸 *[Country Analysis Dashboard] https://github.com/Rishabh1108ch/Financials-Data-Analysis/blob/main/4.%20Country%20Analysis%20Power%20BI%20Screenshot.png*  
 ---
 
+## 🖼️ Screenshots
+
+### 🧭 Overview Dashboard
+
+![Overview Dashboard](https://github.com/Rishabh1108ch/-Sales-and-Marketing-Analysis/blob/main/1.%20Power%20BI%20Screenshot%20%20Overview%20Page.png))
+![Financial Analysis Dashboard](https://github.com/Rishabh1108ch/Financials-Data-Analysis/blob/main/1.%20Financial%20Analysis%20Power%20BI%20Screenshot.png))
+---
+
+### 📦 Product Details Dashboard
+
+![Product Details Dashboard](https://github.com/Rishabh1108ch/-Sales-and-Marketing-Analysis/blob/main/2.%20Power%20BI%20Screenshot%20Product%20Details.png))
+
 ## 🔎 Insights
 
 ### 🛒 Product Sales Analysis
