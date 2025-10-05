@@ -1,4 +1,4 @@
-# ***📊 Financials Data Analysis (Power BI Project)***
+# ***📊 Financial Data Analysis (Power BI Project)***
 
 An interactive Power BI dashboard analyzing **sales, profit, discounts, and sector performance** across different countries and time periods.  
 This project demonstrates **business intelligence reporting** and provides actionable insights for decision-making.  
