@@ -155,6 +155,13 @@ The dashboards explore **revenue, profit, COGS, discounts, and segment performan
 
 ---
 
-👨‍💼 **Prepared by:** *Rishabh Chandrakar*  
-📊 **Tools:** Power BI | Excel | DAX | Data Analytics  
-📅 **Year:** 2025
+## 👨‍💼 Author
+
+👨‍💼**Rishabh Chandrakar**  
+📊 *Data Analytics*  
+🔗 [LinkedIn](https://www.linkedin.com/in/rishabh-chandrakar)  
+💻 [GitHub](https://github.com/Rishabh1108ch)  
+📞 **8963976273**
+
+---
+
